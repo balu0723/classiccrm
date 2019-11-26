@@ -1,0 +1,17 @@
+<suite name ="regression" parallel ="tests">
+		<test name="chrome test">
+				<parameter name="browser" value="chrome"></parameter>
+			<classes>
+				<class name ="orange_hrm.ConfigMethods"></class>
+			</classes>
+		</test>
+		<test name="fireFox test">
+	<parameter name="browser" value="fireFox"></parameter>		
+			<classes>
+				<class name ="orange_hrm.ConfigMethods"></class>
+			</classes>
+		</test>
+</suite>
+
+
+

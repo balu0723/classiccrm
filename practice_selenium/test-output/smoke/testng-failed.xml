@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [smoke]">
+  <parameter name="browser" value="fireFox"/>
+  <test thread-count="5" parallel="tests" name="chromeTest(failed)">
+    <classes>
+      <class name="orange_hrm.ConfigMethods">
+        <methods>
+          <include name="launchApplication" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- orange_hrm.ConfigMethods -->
+    </classes>
+  </test> <!-- chromeTest(failed) -->
+  <test thread-count="5" parallel="tests" name="firefoxTest(failed)">
+    <classes>
+      <class name="orange_hrm.ConfigMethods">
+        <methods>
+          <include name="launchApplication" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- orange_hrm.ConfigMethods -->
+    </classes>
+  </test> <!-- firefoxTest(failed) -->
+</suite> <!-- Failed suite [smoke] -->

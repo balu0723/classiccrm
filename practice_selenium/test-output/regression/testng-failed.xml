@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [regression]">
+  <test thread-count="5" parallel="tests" name="fireFox test(failed)">
+    <parameter name="browser" value="fireFox"/>
+    <classes>
+      <class name="orange_hrm.ConfigMethods">
+        <methods>
+          <include name="launchApplication" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- orange_hrm.ConfigMethods -->
+    </classes>
+  </test> <!-- fireFox test(failed) -->
+</suite> <!-- Failed suite [regression] -->
