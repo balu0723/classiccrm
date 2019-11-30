@@ -1,0 +1,3 @@
+2019-11-29 16:51:29.590 [      main]TRACE                          - Initializing the log file in before suit.
+2019-11-29 16:51:29.605 [      main]TRACE                          - Execution started for Default test
+2019-11-29 16:51:29.621 [      main]TRACE                          - Executing the testCase validateLogin

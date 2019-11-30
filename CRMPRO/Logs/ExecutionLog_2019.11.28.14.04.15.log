@@ -1,0 +1,3 @@
+2019-11-28 14:04:16.369 [      main]TRACE                          - Initializing the log file in before suit.
+2019-11-28 14:04:16.378 [      main]TRACE                          - Execution started for Default test
+2019-11-28 14:04:16.410 [      main]TRACE                          - Executing the testCase login

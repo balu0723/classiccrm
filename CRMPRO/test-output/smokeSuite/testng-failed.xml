@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [smokeSuite]">
+  <parameter name="browser" value="chrome"/>
+  <test thread-count="5" name="login(failed)">
+    <classes>
+      <class name="tests.LoginPageTest">
+        <methods>
+          <include name="login"/>
+          <include name="validateLogo"/>
+          <include name="validateTitle"/>
+          <include name="launchingBrowser"/>
+        </methods>
+      </class> <!-- tests.LoginPageTest -->
+    </classes>
+  </test> <!-- login(failed) -->
+</suite> <!-- Failed suite [smokeSuite] -->

@@ -1,0 +1,9 @@
+<suite name="regressionSuite" parallel="classes">
+	<test name="loginTestWithInValidCredentials">
+		<parameter name="browser" value="chrome">
+		</parameter>
+		<classes>
+			<class name="tests.login.LoginWithValidCredentials" />
+		</classes>
+	</test>
+</suite>

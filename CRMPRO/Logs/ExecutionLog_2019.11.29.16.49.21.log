@@ -1,0 +1,17 @@
+2019-11-29 16:49:22.936 [      main]TRACE                          - Initializing the log file in before suit.
+2019-11-29 16:49:22.952 [      main]TRACE                          - Execution started for Default test
+2019-11-29 16:49:22.968 [      main]TRACE                          - Executing the testCase launchingBrowser
+2019-11-29 16:49:35.009 [      main]TRACE                          - Completed the test Case launchingBrowser
+2019-11-29 16:49:35.015 [      main]TRACE                          - Executing the testCase validateLogo
+2019-11-29 16:49:35.123 [      main]TRACE                          - Logo verified successfully
+2019-11-29 16:49:35.943 [      main]TRACE                          - Completed the test Case validateLogo
+2019-11-29 16:49:35.947 [      main]TRACE                          - Executing the testCase validateTitle
+2019-11-29 16:49:35.959 [      main]TRACE                          - Title verified successfully
+2019-11-29 16:49:36.791 [      main]TRACE                          - Completed the test Case validateTitle
+2019-11-29 16:49:36.797 [      main]TRACE                          - Executing the testCase login
+2019-11-29 16:49:36.798 [      main]TRACE                          - Enterting the login Credentials
+2019-11-29 16:49:42.727 [      main]TRACE                          - Credentials Entered
+2019-11-29 16:49:43.078 [      main]TRACE                          - Completed the test Case login
+2019-11-29 16:49:43.078 [      main]TRACE                          - Executing the testCase validateLogin
+2019-11-29 16:49:43.468 [      main]TRACE                          - Completed the test Case validateLogin
+2019-11-29 16:49:44.039 [      main]TRACE                          - Execution is completed

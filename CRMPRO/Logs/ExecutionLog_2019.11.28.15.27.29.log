@@ -1,0 +1,21 @@
+2019-11-28 15:27:30.840 [      main]TRACE                          - Initializing the log file in before suit.
+2019-11-28 15:27:30.847 [      main]TRACE                          - Execution started for loginTestWithInValidCredentials
+2019-11-28 15:27:30.885 [dentials-1]TRACE                          - Executing the testCase launchingBrowser
+2019-11-28 15:27:30.885 [dentials-2]TRACE                          - Executing the testCase launchingBrowser
+2019-11-28 15:27:43.690 [dentials-2]TRACE                          - Completed the test Case launchingBrowser
+2019-11-28 15:27:43.706 [dentials-2]TRACE                          - Executing the testCase validateLogo
+2019-11-28 15:27:44.389 [dentials-1]TRACE                          - Completed the test Case validateLogo
+2019-11-28 15:27:44.391 [dentials-1]TRACE                          - Executing the testCase validateLogo
+2019-11-28 15:27:45.115 [dentials-2]TRACE                          - Completed the test Case validateLogo
+2019-11-28 15:27:45.116 [dentials-2]TRACE                          - Executing the testCase validateTitle
+2019-11-28 15:27:46.007 [dentials-1]TRACE                          - Completed the test Case validateTitle
+2019-11-28 15:27:46.009 [dentials-1]TRACE                          - Executing the testCase validateTitle
+2019-11-28 15:27:46.912 [dentials-2]TRACE                          - Completed the test Case validateTitle
+2019-11-28 15:27:46.913 [dentials-2]TRACE                          - Executing the testCase login
+2019-11-28 15:27:47.748 [dentials-1]TRACE                          - Completed the test Case login
+2019-11-28 15:27:47.749 [dentials-1]TRACE                          - Executing the testCase validateLogin
+2019-11-28 15:27:48.842 [dentials-2]TRACE                          - Completed the test Case validateLogin
+2019-11-28 15:27:48.843 [dentials-2]TRACE                          - Executing the testCase validateLogin
+2019-11-28 15:27:49.475 [dentials-1]TRACE                          - Completed the test Case validateLogin
+2019-11-28 15:27:50.183 [dentials-2]TRACE                          - Completed the test Case validateLogin
+2019-11-28 15:27:51.306 [      main]TRACE                          - Execution is completed

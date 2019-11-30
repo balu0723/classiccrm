@@ -1,0 +1,8 @@
+<objectInfo>
+	<loginInfo>
+		<username locator="name" value="username" />
+		<password locator="name" value="username" />
+		<loginbutton locator="xpath"
+			value="//input[@class='btn btn-small']" />
+	</loginInfo>
+</objectInfo>

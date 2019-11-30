@@ -1,0 +1,15 @@
+2019-11-28 11:53:00.236 [      main]TRACE                          - Initializing the log file in before suit.
+2019-11-28 11:53:00.244 [      main]TRACE                          - Execution started for loginTestWithInValidCredentials
+2019-11-28 11:53:00.297 [      main]TRACE                          - Executing the testCase login
+2019-11-28 11:53:12.036 [      main]TRACE                          - Enterting the login Credentials
+2019-11-28 11:53:17.562 [      main]TRACE                          - Credentials Entered
+2019-11-28 11:53:18.006 [      main]TRACE                          - Completed the test Case login
+2019-11-28 11:53:18.009 [      main]TRACE                          - Executing the testCase navigatingToNewcontacts
+2019-11-28 11:53:20.790 [      main]TRACE                          - Completed the test Case navigatingToNewcontacts
+2019-11-28 11:53:20.792 [      main]TRACE                          - Executing the testCase enteringPersonalDetails
+2019-11-28 11:53:20.793 [      main]TRACE                          - Entering into the workBook
+2019-11-28 11:53:22.022 [      main]INFO                           - Successfully found the file  : E:\Software Testing Course\Testdata\ContactsData.xlsx
+2019-11-28 11:53:22.022 [      main]INFO                           - File exists
+2019-11-28 11:53:22.022 [      main]TRACE                          - Successfully get the workBook
+2019-11-28 11:54:42.637 [      main]TRACE                          - Completed the test Case enteringPersonalDetails
+2019-11-28 11:54:43.272 [      main]TRACE                          - Execution is completed

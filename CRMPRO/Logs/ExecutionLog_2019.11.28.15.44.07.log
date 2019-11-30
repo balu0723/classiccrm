@@ -1,0 +1,13 @@
+2019-11-28 15:44:08.788 [      main]TRACE                          - Initializing the log file in before suit.
+2019-11-28 15:44:08.797 [      main]TRACE                          - Execution started for Default test
+2019-11-28 15:44:08.823 [      main]TRACE                          - Executing the testCase login
+2019-11-28 15:44:18.793 [      main]TRACE                          - Completed the test Case login
+2019-11-28 15:44:18.796 [      main]TRACE                          - Executing the testCase navigatingToNewcontacts
+2019-11-28 15:44:19.656 [      main]TRACE                          - Completed the test Case navigatingToNewcontacts
+2019-11-28 15:44:19.658 [      main]TRACE                          - Executing the testCase enteringPersonalDetails
+2019-11-28 15:44:19.668 [      main]TRACE                          - Entering into the workBook
+2019-11-28 15:44:20.731 [      main]INFO                           - Successfully found the file  : E:\Software Testing Course\Testdata\ContactsData.xlsx
+2019-11-28 15:44:20.731 [      main]INFO                           - File exists
+2019-11-28 15:44:20.731 [      main]TRACE                          - Successfully get the workBook
+2019-11-28 15:44:21.646 [      main]TRACE                          - Completed the test Case enteringPersonalDetails
+2019-11-28 15:44:22.882 [      main]TRACE                          - Execution is completed

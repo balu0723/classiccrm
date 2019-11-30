@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-11-29T17:46:11 IST" name="Default suite" finished-at="2019-11-29T17:46:12 IST" duration-ms="782">
+    <groups>
+    </groups>
+    <test started-at="2019-11-29T17:46:11 IST" name="Default test" finished-at="2019-11-29T17:46:12 IST" duration-ms="782">
+      <class name="framework.ExcelUtils">
+        <test-method signature="gettingData()[pri:0, instance:framework.ExcelUtils@3972a855]" started-at="2019-11-29T17:46:11 IST" name="gettingData" finished-at="2019-11-29T17:46:12 IST" duration-ms="745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gettingData -->
+      </class> <!-- framework.ExcelUtils -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

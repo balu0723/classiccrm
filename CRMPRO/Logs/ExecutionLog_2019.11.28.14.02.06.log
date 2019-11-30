@@ -1,0 +1,7 @@
+2019-11-28 14:02:09.860 [      main]TRACE                          - Initializing the log file in before suit.
+2019-11-28 14:02:09.876 [      main]TRACE                          - Execution started for Default test(failed)
+2019-11-28 14:02:09.947 [      main]TRACE                          - Executing the testCase enteringPersonalDetails
+2019-11-28 14:02:09.981 [      main]TRACE                          - Entering into the workBook
+2019-11-28 14:02:11.608 [      main]INFO                           - Successfully found the file  : E:\Software Testing Course\Testdata\ContactsData.xlsx
+2019-11-28 14:02:11.608 [      main]INFO                           - File exists
+2019-11-28 14:02:11.609 [      main]TRACE                          - Successfully get the workBook

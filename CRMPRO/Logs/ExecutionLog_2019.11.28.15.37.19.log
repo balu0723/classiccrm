@@ -1,0 +1,11 @@
+2019-11-28 15:37:21.100 [      main]TRACE                          - Initializing the log file in before suit.
+2019-11-28 15:37:21.108 [      main]TRACE                          - Execution started for Default test
+2019-11-28 15:37:21.137 [      main]TRACE                          - Executing the testCase launchingBrowser
+2019-11-28 15:37:30.356 [      main]TRACE                          - Completed the test Case launchingBrowser
+2019-11-28 15:37:30.358 [      main]TRACE                          - Executing the testCase validateLogo
+2019-11-28 15:37:31.401 [      main]TRACE                          - Completed the test Case validateLogo
+2019-11-28 15:37:31.426 [      main]TRACE                          - Executing the testCase validateTitle
+2019-11-28 15:37:32.361 [      main]TRACE                          - Completed the test Case validateTitle
+2019-11-28 15:37:32.381 [      main]TRACE                          - Executing the testCase validateLogin
+2019-11-28 15:37:33.304 [      main]TRACE                          - Completed the test Case validateLogin
+2019-11-28 15:37:34.234 [      main]TRACE                          - Execution is completed
